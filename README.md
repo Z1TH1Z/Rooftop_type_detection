@@ -1,2 +1,3 @@
 # Rooftop_type_detection
-Is able to diffrentiate between roof types and classify based on user input image
+Is able to differentiate between roof types and classify based on user input image.
+Run Inference_Saimanese for the classification.
